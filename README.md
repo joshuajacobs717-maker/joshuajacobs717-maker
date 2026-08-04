@@ -18,28 +18,28 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/JavaScript-2ed669?style=flat-square&logo=javascript&logoColor=000000&labelColor=2ed669" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-2ed669?style=flat-square&logo=typescript&logoColor=000000&labelColor=2ed669" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-2ed669?style=flat-square&logo=python&logoColor=000000&labelColor=2ed669" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-2ed669?style=flat-square&logo=php&logoColor=000000&labelColor=2ed669" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-2ed669?style=flat-square&logo=html5&logoColor=000000&labelColor=2ed669" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2ed669?style=flat-square&logo=css3&logoColor=000000&labelColor=2ed669" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-2ed669?style=flat-square&logo=mysql&logoColor=000000&labelColor=2ed669" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-2ed669?style=flat-square&logo=react&logoColor=000000&labelColor=2ed669" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-2ed669?style=flat-square&logo=vuedotjs&logoColor=000000&labelColor=2ed669" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Express-2ed669?style=flat-square&logo=express&logoColor=000000&labelColor=2ed669" alt="Express" />
+  <img src="https://img.shields.io/badge/Node.js-2ed669?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=2ed669" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-2ed669?style=flat-square&logo=bootstrap&logoColor=000000&labelColor=2ed669" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/pandas-2ed669?style=flat-square&logo=pandas&logoColor=000000&labelColor=2ed669" alt="pandas" />
+  <img src="https://img.shields.io/badge/MySQL-2ed669?style=flat-square&logo=mysql&logoColor=000000&labelColor=2ed669" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2ed669?style=flat-square&logo=postgresql&logoColor=000000&labelColor=2ed669" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-2ed669?style=flat-square&logo=firebase&logoColor=000000&labelColor=2ed669" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-2ed669?style=flat-square&logo=vercel&logoColor=000000&labelColor=2ed669" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-2ed669?style=flat-square&logo=netlify&logoColor=000000&labelColor=2ed669" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Git-2ed669?style=flat-square&logo=git&logoColor=000000&labelColor=2ed669" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-2ed669?style=flat-square&logo=github&logoColor=000000&labelColor=2ed669" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-2ed669?style=flat-square&logo=visualstudiocode&logoColor=000000&labelColor=2ed669" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Slack-2ed669?style=flat-square&logo=slack&logoColor=000000&labelColor=2ed669" alt="Slack" />
 </p>
 
 ### 🔗 Connect With Me
