@@ -63,4 +63,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/joshuajacobs717-maker">joshuajacobs717-maker</a></i></p>
+<p align="center"><i>From <a href="https://github.com/joshuajacobs717-maker">joshuajacobs717-maker</a></i></p>
