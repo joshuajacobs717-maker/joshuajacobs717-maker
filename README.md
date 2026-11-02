@@ -16,11 +16,6 @@
 
 <p align="center">
   <a href="https://joshuadigitalport.netlify.app/">
-    <img
-      src="YOUR_PORTFOLIO_PREVIEW_GIF_URL"
-      width="100%"
-      alt="Joshua Jacobs Portfolio"
-    />
   </a>
 </p>
 ---
