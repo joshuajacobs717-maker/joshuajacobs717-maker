@@ -13,6 +13,16 @@
   <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-2ED669?style=for-the-badge&labelColor=101820&color=2ED669" alt="Open to opportunities"/>
 </p>
 
+
+<p align="center">
+  <a href="https://joshuadigitalport.netlify.app/">
+    <img
+      src="YOUR_PORTFOLIO_PREVIEW_GIF_URL"
+      width="100%"
+      alt="Joshua Jacobs Portfolio"
+    />
+  </a>
+</p>
 ---
 
 ## About Me
